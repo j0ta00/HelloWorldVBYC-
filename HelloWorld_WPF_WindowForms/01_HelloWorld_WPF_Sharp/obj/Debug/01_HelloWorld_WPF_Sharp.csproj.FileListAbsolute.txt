@@ -1,0 +1,15 @@
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\bin\Debug\01_HelloWorld_WPF_Sharp.exe.config
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\bin\Debug\01_HelloWorld_WPF_Sharp.exe
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\bin\Debug\01_HelloWorld_WPF_Sharp.pdb
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\obj\Debug\01_HelloWorld_WPF_Sharp.csprojAssemblyReference.cache
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\obj\Debug\MainWindow.g.cs
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\obj\Debug\App.g.cs
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\obj\Debug\01_HelloWorld_WPF_Sharp_MarkupCompile.cache
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\obj\Debug\01_HelloWorld_WPF_Sharp_MarkupCompile.lref
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\obj\Debug\MainWindow.baml
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\obj\Debug\01_HelloWorld_WPF_Sharp.g.resources
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\obj\Debug\_01_HelloWorld_WPF_Sharp.Properties.Resources.resources
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\obj\Debug\01_HelloWorld_WPF_Sharp.csproj.GenerateResource.cache
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\obj\Debug\01_HelloWorld_WPF_Sharp.csproj.CoreCompileInputs.cache
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\obj\Debug\01_HelloWorld_WPF_Sharp.exe
+D:\juanjomz\visualStudio\HelloWorld_WPF_WindowForms\01_HelloWorld_WPF_Sharp\obj\Debug\01_HelloWorld_WPF_Sharp.pdb
